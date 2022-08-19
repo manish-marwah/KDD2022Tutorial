@@ -10,7 +10,7 @@ In particular, our tutorial is organized into three parts: 1) we describe networ
 Proposal: [KDD2022_Tutorial.pdf](KDD2022_Tutorial.pdf) <br>
 Slides: [DLNetworkTrafficTutorial.pdf](DLNetworkTrafficTutorial.pdf)<br>
 
-### Tutors Bio's
+### Tutors' Bio
 
 [Manish Marwah](http://marwah.org) is a principal research scientist at Micro Focus. His main research interests are in the broad areas of AI and data science, and their applications to cybersecurity and to cyberphysical systems. His research has led to over 65 refereed papers, several of which have won awards, including at AAAI, KDD, and IGCC. He has twice co-organized -- Data Mining for Sustainability (SustKDD) -- a workshop at KDD. He has been granted 53 patents. Manish received his Ph.D. in Computer Science from University of Colorado, Boulder. He has taught graduate data science courses at Santa Clara University as an adjunct faculty. 
 
