@@ -7,7 +7,7 @@ Network traffic data is key in addressing several important cybersecurity proble
 In particular, our tutorial is organized into three parts: 1) we describe network traffic data, applications to security and network management, and challenges; 2) we present different deep learning architectures used for representation learning instead of feature engineering of network traffic data; and, 3) we describe use of generative neural models for synthetic generation of network traffic data.
 
 
-Proposal: [KDD2022_Tutorial.pdf](KDD2022_Tutorial.pdf) <br>
+Summary: [KDD2022_Tutorial.pdf](KDD2022_Tutorial.pdf) <br>
 Slides: [DLNetworkTrafficTutorial.pdf](DLNetworkTrafficTutorial.pdf)<br>
 
 ### Tutors' Bio
